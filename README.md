@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>API de PDV (Ponto de Venda) - Guia do Usuário</title>
 </head>
 <body>
 
@@ -23,12 +22,8 @@
 <p>Para configurar e executar o projeto, siga estas etapas:</p>
 
 <ol>
-  <li>Clone o repositório para o seu ambiente local:</li>
+  <li>Clone o repositório para o seu ambiente local</li>
 </ol>
-
-<pre><code>git clone https://github.com/seuprojeto/pdv-api.git
-cd pdv-api
-</code></pre>
 
 <ol start="2">
   <li>Instale as dependências do projeto:</li>
