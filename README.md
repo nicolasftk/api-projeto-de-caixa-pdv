@@ -356,9 +356,14 @@
 500 (Internal Server Error) - Erro inesperado do servidor
 </code></pre>
 
-<h2>Projeto em desenvolvimento</h2>
+<h2>Sobre o projeto</h2>
 
-<p>Este é um resumo das funcionalidades completas da API de PDV. Lembre-se de que o desenvolvimento de novas funcionalidades e aprimoramentos pode continuar no futuro.</p>
+<p>Este é um resumo das funcionalidades completas da API de PDV. Lembre-se de que o desenvolvimento de novas funcionalidades e aprimoramentos pode continuar no futuro.
+Esse projeto foi desenvolvido em conjunto com os seguintes desenvolvedores:</p>
+<p> <a href="https://github.com/nicolasftk">Nicholas Fortunato<a></a></p>
+<p> <a href="https://github.com/EryckBarreto">Eryck Barreto<a></a></p> 
+<p> <a href="https://github.com/GustavoHKuhl">Gustavo Kuhl<a></a></p>
+<p> <a href="https://github.com/joaofilhox">João Filho<a></a></p>
 
 <h2>Contribuindo para API</h2>
 <p>Para contribuir com a API PDV, siga estas etapas:</p>
